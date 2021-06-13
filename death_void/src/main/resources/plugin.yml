@@ -1,0 +1,4 @@
+name: DeathVoid
+version: ${project.version}
+main: me.darkwinged.deathvoid.Main
+authors: [darkwinged]
